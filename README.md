@@ -23,4 +23,6 @@ Nowadays, large sets of data offer a deep description of both players and team a
 
 The main goal of the problem is to develop a machine learning algorithm that predicts the scout-made evaluation of players in the context of given matches.
 
+#### Note: Try using various imputation techniques to retain the columns as more the number of features more will be the R-Squared value.
+
 
